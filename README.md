@@ -73,7 +73,7 @@ This project is licensed under the MIT License.
 
 Contributors
 
-Your Name - Developer
+Your Name - Saurabh Burnwal
 
 Feel free to contribute by submitting pull requests or reporting issues!
 
